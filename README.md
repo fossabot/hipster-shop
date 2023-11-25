@@ -39,7 +39,8 @@ If you’re using this demo, please **★Star** this repository to show your int
 
 | Home Page                                                                                                         | Checkout Page                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [![Screenshot of store homepage](/docs/img/home-page.png)](./docs/img/hipster-shop-frontend-1.png) | [![Screenshot of checkout screen](./docs/img/checkout-page.png)](./docs/img/hipster-shop-frontend-2.png) |
+| [![Screenshot of store homepage](/docs/img/home-page.png)](./docs/img/hipster-shop-frontend-1.png) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjkindj%2Fhipster-shop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjkindj%2Fhipster-shop?ref=badge_shield)
+| [![Screenshot of checkout screen](./docs/img/checkout-page.png)](./docs/img/hipster-shop-frontend-2.png) |
 
 ## Service Architecture
 
@@ -327,3 +328,7 @@ If you've deployed the application with `make setup`, then you can clean up the 
 ---
 
 This is not an official Google project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjkindj%2Fhipster-shop.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjkindj%2Fhipster-shop?ref=badge_large)
